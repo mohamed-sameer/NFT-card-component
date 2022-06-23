@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [NFT card component solution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-card-component-solution-71RZUXuwZB))
+- Solution URL: [NFT card component solution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-card-component-solution-71RZUXuwZB)
 - Live Site URL: [NFT Card Component](https://nftcard-mohamed.netlify.app/)
 
 ## My process
